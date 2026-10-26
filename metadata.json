@@ -1,0 +1,6 @@
+{
+  "name": "SafeSight AI",
+  "description": "Unified Intelligent Emergency Response with Edge-AI incident triage, voice reporting, and tactical dispatch.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
